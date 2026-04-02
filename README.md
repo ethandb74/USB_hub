@@ -23,3 +23,8 @@ Custom built case with snap fit joints:
 <img width="1919" height="1079" alt="Screenshot 2026-03-31 231950" src="https://github.com/user-attachments/assets/cec28d2d-0fc8-4ae2-a406-99df16e07fdd" />
 
 <img width="1512" height="1015" alt="Screenshot 2026-03-31 232015" src="https://github.com/user-attachments/assets/0c8ffef4-a2be-4003-afc5-75058fdd3f3c" />
+
+My BOM:
+<img width="1919" height="287" alt="Screenshot 2026-04-01 223307" src="https://github.com/user-attachments/assets/7f3c8591-2a25-4a5d-a153-62563492874e" />
+
+
